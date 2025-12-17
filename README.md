@@ -1,5 +1,6 @@
 ONSSET : Open Source Spatial Electrification Tool with spatial changes in urbanisation
 =================================================
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17961683.svg)](https://doi.org/10.5281/zenodo.17961683)
 
 ## Overview
 
