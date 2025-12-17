@@ -8,4 +8,4 @@ The files urbanisation_code.m show the code used to create the regression model 
 
 ## Contact
 For more information regarding the urbanisation model, its functionality and implementation
-please visit the author at dorcus70@gmail.com
+please contact the author at dorcus70@gmail.com
