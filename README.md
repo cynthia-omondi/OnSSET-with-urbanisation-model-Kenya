@@ -1,3 +1,6 @@
+ONSSET : Open Source Spatial Electrification Tool with spatial changes in urbanisation
+=================================================
+
 ## Overview
 
 This repository contains the source code for OnSSET extended with a binomial logistic regression model to project spatial and temporal changes in urbanisation in Kenya.
