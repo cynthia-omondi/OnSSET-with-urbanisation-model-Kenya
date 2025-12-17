@@ -1,6 +1,6 @@
 ## Overview
 
-This repository contains source code for OnSSET with a binomial logistic regression model of spatial changes in urbanisation
+This repository contains source code for OnSSET with a binomial logistic regression model that projects spatial changes in urbanisation in Kenya
 
 The folder "OnSSET CODE"contains the onsset code
 
